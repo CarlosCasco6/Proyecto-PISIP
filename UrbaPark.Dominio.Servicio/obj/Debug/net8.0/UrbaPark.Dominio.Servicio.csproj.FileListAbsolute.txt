@@ -1,0 +1,11 @@
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\bin\Debug\net8.0\UrbaPark.Dominio.Servicio.deps.json
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\bin\Debug\net8.0\UrbaPark.Dominio.Servicio.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\bin\Debug\net8.0\UrbaPark.Dominio.Servicio.pdb
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.AssemblyInfoInputs.cache
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.AssemblyInfo.cs
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.csproj.CoreCompileInputs.cache
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\refint\UrbaPark.Dominio.Servicio.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\UrbaPark.Dominio.Servicio.pdb
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Dominio.Servicio\obj\Debug\net8.0\ref\UrbaPark.Dominio.Servicio.dll

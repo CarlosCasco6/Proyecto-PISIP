@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UrbaPark.Aplicacion.DTO\UrbaPark.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\UrbaPark.Aplicacion\UrbaPark.Aplicacion.csproj" />
+    <ProjectReference Include="..\UrbaPark.Dominio.Modelo\UrbaPark.Dominio.Modelo.csproj" />
+    <ProjectReference Include="..\UrbaPark.Dominio.Servicio\UrbaPark.Dominio.Servicio.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\bin\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.deps.json
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\bin\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\bin\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.pdb
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.AssemblyInfoInputs.cache
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.AssemblyInfo.cs
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.csproj.CoreCompileInputs.cache
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\refint\UrbaPark.Infraestructura.ServicioExterno.dll
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\UrbaPark.Infraestructura.ServicioExterno.pdb
+C:\SistemaUrbaPark\SistemaUrbaParkAPIWeb\UrbaPark.Infraestructura.ServicioExterno\obj\Debug\net8.0\ref\UrbaPark.Infraestructura.ServicioExterno.dll
