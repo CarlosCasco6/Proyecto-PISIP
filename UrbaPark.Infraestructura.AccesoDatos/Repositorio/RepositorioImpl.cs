@@ -14,6 +14,7 @@ namespace UrbaPark.Infraestructura.AccesoDatos.Repositorio
         private readonly DbSet<T> _dbSet;
 
         //contructor
+
         public RepositorioImpl(urbaparkDBContext dbContex)
         {
             _dbContex = dbContex;

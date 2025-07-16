@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbaPark.Aplicacion.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21440f496cf87b59dfaffdc5618a1a18f86f19ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbaPark.Aplicacion.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbaPark.Aplicacion.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

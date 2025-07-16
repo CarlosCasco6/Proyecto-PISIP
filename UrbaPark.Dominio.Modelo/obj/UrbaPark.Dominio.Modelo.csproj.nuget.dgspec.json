@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj": {}
+    "C:\\Users\\etaco\\carlitos\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj": {}
   },
   "projects": {
-    "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj": {
+    "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj",
         "projectName": "UrbaPark.Aplicacion.DTO",
-        "projectPath": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\obj\\",
+        "projectPath": "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj",
+        "packagesPath": "C:\\Users\\etaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\etaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -66,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj": {
+    "C:\\Users\\etaco\\carlitos\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\etaco\\carlitos\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj",
         "projectName": "UrbaPark.Dominio.Modelo",
-        "projectPath": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Dominio.Modelo\\obj\\",
+        "projectPath": "C:\\Users\\etaco\\carlitos\\UrbaPark.Dominio.Modelo\\UrbaPark.Dominio.Modelo.csproj",
+        "packagesPath": "C:\\Users\\etaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\etaco\\carlitos\\UrbaPark.Dominio.Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\etaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj": {
-                "projectPath": "C:\\SistemaUrbaPark\\SistemaUrbaParkAPIWeb\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj"
+              "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\etaco\\carlitos\\UrbaPark.Aplicacion.DTO\\UrbaPark.Aplicacion.DTO.csproj"
               }
             }
           }
@@ -115,7 +115,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
