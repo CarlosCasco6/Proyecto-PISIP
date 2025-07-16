@@ -39,7 +39,7 @@ namespace UrbaParkAPIWeb.Controllers
         }
 
         // Obtener cronograma por ID
-        [HttpGet("Obtener Cronograma por ID")]
+        [HttpGet("Obtener Cronograma por ID")] //se debe modificar
         public async Task<IActionResult> ObtenerPorId(int id)
         {
             var cronograma = await _cronogramasSoporteServicio.CronogramaSoporteGetByIdAsync(id);
