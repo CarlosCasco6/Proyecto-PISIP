@@ -1,0 +1,9 @@
+# Ignorar carpetas comunes
+bin/
+obj/
+.vs/
+
+# Ignorar archivos de configuración
+*.user
+*.suo
+*.env
