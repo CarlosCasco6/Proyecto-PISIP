@@ -21,6 +21,10 @@ public partial class informes_software
 
     public string descripcion { get; set; }
 
+    public virtual ICollection<bitacoras_tecnicas> bitacoras_tecnicas { get; set; } = new List<bitacoras_tecnicas>();
+
+    public virtual ICollection<evidencias_informe> evidencias_informe { get; set; } = new List<evidencias_informe>();
+
     public virtual software_parqueaderos id_softwareNavigation { get; set; }
 
     public virtual tecnicos_software id_tecnicoNavigation { get; set; }

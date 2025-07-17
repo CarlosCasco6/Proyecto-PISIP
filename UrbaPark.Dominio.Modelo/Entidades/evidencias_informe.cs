@@ -5,19 +5,17 @@ using System.Collections.Generic;
 
 namespace UrbaPark.Infraestructura.AccesoDatos;
 
-public partial class incidencias_software
+public partial class evidencias_informe
 {
-    public int id_incidencia { get; set; }
+    public int id_evidencia { get; set; }
 
     public int id_informe { get; set; }
 
-    public string codigo { get; set; }
+    public string tipo { get; set; }
 
-    public string descripcion { get; set; }
+    public string ruta_archivo { get; set; }
 
-    public string severidad { get; set; }
+    public DateTime? fecha_subida { get; set; }
 
     public virtual informes_software id_informeNavigation { get; set; }
-
-    public virtual ICollection<soluciones_aplicadas> soluciones_aplicadas { get; set; } = new List<soluciones_aplicadas>();
 }

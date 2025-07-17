@@ -19,6 +19,8 @@ public partial class tecnicos_software
 
     public string correo_electronico { get; set; }
 
+    public virtual ICollection<bitacoras_tecnicas> bitacoras_tecnicas { get; set; } = new List<bitacoras_tecnicas>();
+
     public virtual usuarios id_usuarioNavigation { get; set; }
 
     public virtual ICollection<informes_software> informes_software { get; set; } = new List<informes_software>();

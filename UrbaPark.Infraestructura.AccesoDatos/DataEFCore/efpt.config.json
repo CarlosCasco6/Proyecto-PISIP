@@ -15,7 +15,15 @@
    "T4TemplatePath": null,
    "Tables": [
       {
+         "Name": "[dbo].[bitacoras_tecnicas]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[cronogramas_soporte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[evidencias_informe]",
          "ObjectType": 0
       },
       {

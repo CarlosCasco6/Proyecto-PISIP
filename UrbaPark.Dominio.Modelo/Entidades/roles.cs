@@ -3,10 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-
-
 namespace UrbaPark.Infraestructura.AccesoDatos;
-
 
 public partial class roles
 {

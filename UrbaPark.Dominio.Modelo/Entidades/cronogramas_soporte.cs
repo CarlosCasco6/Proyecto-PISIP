@@ -11,6 +11,8 @@ public partial class cronogramas_soporte
 
     public int id_parqueadero { get; set; }
 
+    public string nombre_cronograma { get; set; }
+
     public DateOnly fecha_inicio { get; set; }
 
     public DateOnly? fecha_fin { get; set; }
